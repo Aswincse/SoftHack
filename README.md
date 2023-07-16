@@ -1,1 +1,1 @@
-# SoftHack
+Underwater pearl harvesting using robotics
